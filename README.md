@@ -3,7 +3,7 @@
   <div>
     <h3>Prazer, sou Igor 👋</h3>
     <p>🌍 Sou programador FullStack sobrevivendo sem a cafeína.</p>
-    <p>⚙️ Utilizo no meu dia: `.java`, `.js`, `.ts`, `.py`, `.cs`, `.jsx`, `.tsx`, e o que mais aparecer de desafio :D</p>
+    <p>⚙️ Utilizo no meu dia: `.java`, `.js`, `.ts`, `.py`, `.cs`, `.jsx`, `.tsx`</p>
   </div>
 </div>
 
