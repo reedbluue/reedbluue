@@ -1,9 +1,13 @@
-<div>
-  <a href="#"><img align='right' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reedbluue" alt="ilustração do status do github"></a>
-  <span align='left'>
-    <h3>Prazer, sou Igor 👋</h3>
-    <p>🌍 Sou programador FullStack sobrevivendo sem a cafeína.</p>
-    <p>⚙️ Utilizo no meu dia: `.java`, `.js`, `.ts`, `.py`, `.cs`, `.jsx`, `.tsx`</p>
-  </sapn>
-</div>
+```java
+public class IgorOliveira {
+  private String sobre = "Programador FullStack sobrevivendo sem cafeína.";
+  private String[] linguagens = new String[]{"Java", "JS", "TS", "Python", "C#"};
+  private String[] frameworks = new String[]{"Spring", "FastAPI", "NodeJS", "Ts.ED", "React", "Tailwind"};
+  private String[] databases = new String[]{"PostgreSQL", "MySQL", "MongoDB", "DynamoDB", "Redis"};
+
+  public bool loadMore() {
+    return true;
+  }
+}
+```
 
